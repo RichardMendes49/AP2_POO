@@ -26,18 +26,14 @@ python -m venv Gasolina
 Ativar o ambiente virtual:
 
 - **Windows:**
-  ```bash
-  venv\Scripts\activate
-  ```
+```bash
+venv\Scripts\activate
+```
 
-Instalar as dependências:
 
 ```bash
 pip install -r requirements.txt
 ```
-
-Atualmente, o projeto depende apenas de **pytest** para testes automatizados.
-
 ---
 
 ##  Executando o Sistema
