@@ -1,10 +1,10 @@
 # Sistema de Abastecimento em Python
 
-Este projeto implementa um **sistema de controle de abastecimento de veículos** (carros e motos) utilizando **Python** e os princípios de **Programação Orientada a Objetos (POO)**.  
+Este projeto desenvolve um sistema de gerenciamento de abastecimento de veículos — abrangendo carros e motos — implementado em Python com base nos conceitos de Programação Orientada a Objetos (POO).
 
-O sistema permite simular o abastecimento, consumo de combustível, verificação de tanque cheio, tentativa de ligar com tanque vazio e controle de tempo mínimo entre abastecimentos.
+A aplicação simula o comportamento real de veículos, incluindo abastecimento, consumo de combustível, verificação de capacidade do tanque, bloqueio ao ligar sem combustível e restrição de tempo mínimo entre reabastecimentos.
 
-E
+
 
 ##  Estrutura do Projeto
 
